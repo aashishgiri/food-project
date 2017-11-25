@@ -1,0 +1,39 @@
+.customDiv{
+	margin:3px;
+	min-height: 100%;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+	border-radius: 15px;
+	background:  rgba(58, 62, 72, 0.7)!important;
+}
+
+#leftbarr{
+	height: 800px;
+}
+
+.HeaderArea{
+	margin: 3px;
+	max-height: 2%;
+	//min-height: 200px;
+	background-color:maroon; 
+	text-align: center;
+	font-size: x-large;
+	border-radius: 15px;
+}
+
+.HeaderText{
+	color: orange;
+	font-size: 50px;
+	backface-visibility: 40px;
+	padding-top: 40px;
+}
+
+.h2{
+	color: lightblue;
+}
+
+.Anchor{
+	padding-left: 40px;
+	padding-right: 40px;
+}
